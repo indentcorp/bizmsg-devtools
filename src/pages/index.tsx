@@ -131,6 +131,7 @@ export default function HomePage() {
         <Footer>
           비즈엠 Devtools는 <Link href="https://indentcorp.com"><a target="_blank">인덴트코퍼레이션</a></Link>에서 비즈엠 API를 사용하여 제공하는 서비스이며, 비즈엠에서 공식적으로 제공하는 사이트가 아닙니다.
           API에 관한 자세한 내용은 <Link href="https://alimtalk-api.bizmsg.kr/startTest.html"><a target="_blank">비즈메시지 테스트 선행조건</a></Link>을 참고해 주세요.
+          또한, 본 사이트의 소스코드는 <Link href="https://github.com/indentcorp/bizmsg-devtools"><a target="_blank">GitHub</a></Link>에 공개되어 있습니다.
           <Copyright>
             © 2022 <Link href="https://indentcorp.com"><a target="_blank">Indent corp.</a></Link>
           </Copyright>
