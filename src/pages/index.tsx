@@ -133,7 +133,7 @@ export default function HomePage() {
           API에 관한 자세한 내용은 <Link href="https://alimtalk-api.bizmsg.kr/startTest.html"><a target="_blank">비즈메시지 테스트 선행조건</a></Link>을 참고해 주세요.
           또한, 본 사이트의 소스코드는 <Link href="https://github.com/indentcorp/bizmsg-devtools"><a target="_blank">GitHub</a></Link>에 공개되어 있습니다.
           <Copyright>
-            © 2022 <Link href="https://indentcorp.com"><a target="_blank">Indent corp.</a></Link>
+            © 2022-2023 <Link href="https://indentcorp.com"><a target="_blank">Indent corp.</a></Link>
           </Copyright>
         </Footer>
       </Main>
